@@ -1,0 +1,13 @@
+# Compiled program
+hospital
+hospital.exe
+
+# Personal and generated data
+data/*.txt
+
+# macOS files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
